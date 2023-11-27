@@ -2,7 +2,7 @@
 
 # IDM - Internet Download Manager
 
-Activate IDM for Lifetime: The fastest download accelerator.
+Activate IDM for Lifetime: The fastest download accelerator. Just Run CMD file and choose/select 1 option. Thats it.
 
 ## Description
 IDM (Internet Download Manager) is a popular download manager known for its fast download speeds and enhanced features. This repository provides a method to activate IDM for a lifetime, allowing you to enjoy its full capabilities without limitations.
