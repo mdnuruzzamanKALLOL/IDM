@@ -1,7 +1,5 @@
 # ACTIVE IDM FOR LIFETIME
 
-[![Donate](https://img.shields.io/badge/Donate-As%20you%20wish-blue.svg)](https://shop.bkash.com/elite-kamrul01568670982/paymentlink)
-
 # IDM - Internet Download Manager
 
 Activate IDM for Lifetime: The fastest download accelerator.
