@@ -925,8 +925,6 @@ ________________________________________________________________________________
 ::========================================================================================================================================
 
 ```
-# NOW RUN AND SEE YOUR IDM WAS ACTIVE
-![image](https://user-images.githubusercontent.com/128359757/226404270-4cec6bdc-f1ca-4d93-9a64-f7cd38621067.png)
 
 ## Note
 Please ensure that you use this method responsibly and only activate IDM with a valid license or if you have legally obtained the software. Piracy and unauthorized use of software are against the law and violate copyright regulations. This repository does not endorse or support illegal activities.
